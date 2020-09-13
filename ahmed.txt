@@ -1,1 +1,37 @@
-https://www.tutorialspoint.com/compile_java_online.php
+public class HelloWorld{
+
+     public static void main(String []args){
+        System.out.println("Hello World");
+    
+    
+     int x = 6;
+     int k = 44;
+     
+     
+     System.out.println(x+k);
+      System.out.println(x*k);
+      
+      
+      
+      //bonus
+      
+      
+      String n = "ahmed";
+       String f = "alturkait";
+       
+       
+     System.out.println( n +" " + f );
+    
+    
+    
+     
+         
+         
+     }
+     
+     
+     
+     
+     
+     
+}
